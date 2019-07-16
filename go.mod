@@ -9,7 +9,7 @@ require (
 	github.com/go-xorm/xorm v0.7.1
 	github.com/joho/godotenv v1.3.0
 	github.com/lib/pq v1.1.1
-	github.com/mattn/go-sqlite3 v1.10.0
+	github.com/mattn/go-sqlite3 v1.11.0
 	github.com/stretchr/testify v1.3.0
 	google.golang.org/appengine v1.6.1 // indirect
 )
