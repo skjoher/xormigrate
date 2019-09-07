@@ -3,7 +3,7 @@ module src.techknowlogick.com/xormigrate
 go 1.12
 
 require (
-	github.com/denisenkom/go-mssqldb v0.0.0-20190515214422-eb9f6a1743f3
+	github.com/denisenkom/go-mssqldb v0.0.0-20190906004059-62cf760a6c9e
 	github.com/go-sql-driver/mysql v1.4.1
 	github.com/go-xorm/builder v0.3.4 // indirect
 	github.com/go-xorm/xorm v0.7.1
