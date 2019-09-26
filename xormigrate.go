@@ -1,4 +1,4 @@
-package xormigrate // import "src.techknowlogick.com/xormigrate"
+package xormigrate // import "github.com/skjoher/xormigrate"
 
 import (
 	"errors"

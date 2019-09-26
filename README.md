@@ -1,7 +1,7 @@
 # Xormigrate
 [![Build Status](https://cloud.drone.io/api/badges/techknowlogick/xormigrate/status.svg)](https://cloud.drone.io/techknowlogick/xormigrate)
-[![Go Report Card](https://goreportcard.com/badge/src.techknowlogick.com/xormigrate)](https://goreportcard.com/report/src.techknowlogick.com/xormigrate)
-[![GoDoc](https://godoc.org/src.techknowlogick.com/xormigrate?status.svg)](https://godoc.org/src.techknowlogick.com/xormigrate)
+[![Go Report Card](https://goreportcard.com/badge/github.com/skjoher/xormigrate)](https://goreportcard.com/report/github.com/skjoher/xormigrate)
+[![GoDoc](https://godoc.org/github.com/skjoher/xormigrate?status.svg)](https://godoc.org/github.com/skjoher/xormigrate)
 
 ## Supported databases
 
@@ -15,7 +15,7 @@ It supports any of the databases Xorm supports:
 ## Installing
 
 ```bash
-go get -u src.techknowlogick.com/xormigrate
+go get -u github.com/skjoher/xormigrate
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ package main
 import (
 	"log"
 
-	"src.techknowlogick.com/xormigrate"
+	"github.com/skjoher/xormigrate"
 
 	"github.com/go-xorm/xorm"
 	_ "github.com/mattn/go-sqlite3"

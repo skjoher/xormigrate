@@ -1,4 +1,4 @@
-module src.techknowlogick.com/xormigrate
+module github.com/skjoher/xormigrate
 
 go 1.12
 

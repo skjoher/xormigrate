@@ -3,7 +3,7 @@ name: default
 
 workspace:
   base: /go
-  path: src/src.techknowlogick.com/xormigrate
+  path: src/github.com/skjoher/xormigrate
 
 steps:
 - name: fetch-and-test
